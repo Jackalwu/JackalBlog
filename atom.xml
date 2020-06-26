@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jack&#39;s Blog</title>
+  
+  <subtitle>&lt;b&gt;No Pain, No Gain.&lt;/b&gt;</subtitle>
+  <link href="/JackalBlog.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://jackalwu.github.io/JackalBlog.github.io/"/>
+  <updated>2018-10-20T09:47:46.075Z</updated>
+  <id>https://jackalwu.github.io/JackalBlog.github.io/</id>
+  
+  <author>
+    <name>Jack</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post</title>
+    <link href="https://jackalwu.github.io/JackalBlog.github.io/2018/10/20/Dairy/"/>
+    <id>https://jackalwu.github.io/JackalBlog.github.io/2018/10/20/Dairy/</id>
+    <published>2018-10-20T09:47:46.000Z</published>
+    <updated>2018-10-20T09:47:46.075Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Reading-Notes</title>
+    <link href="https://jackalwu.github.io/JackalBlog.github.io/2018/10/06/Dairy/"/>
+    <id>https://jackalwu.github.io/JackalBlog.github.io/2018/10/06/Dairy/</id>
+    <published>2018-10-06T12:36:59.000Z</published>
+    <updated>2018-10-06T12:41:40.716Z</updated>
+    
+    <content type="html"><![CDATA[<p>#&lt;特斯拉:电气时代的开创者&gt;</p><p align="right"></p>]]></content>
+    
+    <summary type="html">
+    
+      Reading-Notes
+    
+    </summary>
+    
+      <category term="Reading-Notes" scheme="https://jackalwu.github.io/JackalBlog.github.io/categories/Reading-Notes/"/>
+    
+    
+      <category term="Reading-Notes" scheme="https://jackalwu.github.io/JackalBlog.github.io/tags/Reading-Notes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开始使用博客</title>
+    <link href="https://jackalwu.github.io/JackalBlog.github.io/2018/10/01/Dairy/"/>
+    <id>https://jackalwu.github.io/JackalBlog.github.io/2018/10/01/Dairy/</id>
+    <published>2018-10-01T03:59:59.000Z</published>
+    <updated>2018-09-30T12:18:59.214Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Test1"><a href="#Test1" class="headerlink" title="Test1"></a>Test1</h1><blockquote class="blockquote-center"><p>Whatever you hold in your mind on a consistent basis is exactly what you will experience in your life.</p></blockquote><p>here are the contents</p><p><hr></p><p><div style="width: 400px; margin: auto"><img src="https://bn1302files.storage.live.com/y4m_XgnUr-xwbkwKqDPW-hdAwZfDWXqgEsZGBw7k8T1N3nxk8F_s_AOSz418jUw_GCEF7BaslFc0PI9uyj4-ugOe28oq7TYouRBbQwr0EHL3vC5FuCqCcFdOZaZKjLFtU1nBsQ9ITQTH1tCatGJrgOXGA96TG5UgEaVnuENuamca6mDZJGar9yNffzQxxd_MdU_WplSwuOLJpQVU6TN2SOVHQ/XQLN5209.JPG?psid=1&amp;width=636&amp;height=848" alt="沙滩海鸥" title="沙滩海鸥@Sydney"></div><br><center>@ Sydney</center>&gt;</p><p><hr></p><h2 id="Test2"><a href="#Test2" class="headerlink" title="Test2"></a>Test2</h2><p>hello</p>]]></content>
+    
+    <summary type="html">
+    
+      First Blog
+    
+    </summary>
+    
+      <category term="Daily life" scheme="https://jackalwu.github.io/JackalBlog.github.io/categories/Daily-life/"/>
+    
+    
+      <category term="Dairy" scheme="https://jackalwu.github.io/JackalBlog.github.io/tags/Dairy/"/>
+    
+  </entry>
+  
+</feed>
