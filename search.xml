@@ -8,7 +8,7 @@
       <link href="/2020/06/29/%E5%9F%BA%E4%BA%8E/"/>
       <url>/2020/06/29/%E5%9F%BA%E4%BA%8E/</url>
       
-        <content type="html"><![CDATA[<h1 id="HEXO文章编辑"><a href="#HEXO文章编辑" class="headerlink" title="HEXO文章编辑"></a>HEXO文章编辑</h1><ul><li>Markdown编辑器<ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以写出各式各样的博文。</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="HEXO文章编辑"><a href="#HEXO文章编辑" class="headerlink" title="HEXO文章编辑"></a>HEXO文章编辑</h1><ul><li><p>Markdown编辑器</p><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。</li></ul><ul><li>文章标签<ul><li>使用<code>tags: [A,B,C,D]</code>可对文章进行多标签(A,B,C,D)标记。</li></ul></li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -20,7 +20,13 @@
       
         <tags>
             
-            <tag> HEXO,Blog,NEXT,Setting </tag>
+            <tag> HEXO </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> NEXT </tag>
+            
+            <tag> Setting </tag>
             
         </tags>
       
