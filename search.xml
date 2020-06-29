@@ -4,11 +4,46 @@
   
     
     <entry>
+      <title>日本生活旅游</title>
+      <link href="/2020/06/29/%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8/"/>
+      <url>/2020/06/29/%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<code>tags: [A,B,C,D]</code>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 旅游 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Japan </tag>
+            
+            <tag> Travel </tag>
+            
+            <tag> 旅游 </tag>
+            
+            <tag> 日本 </tag>
+            
+            <tag> 生活 </tag>
+            
+            <tag> Life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于HEXO的博客设置记录</title>
       <link href="/2020/06/29/%E5%9F%BA%E4%BA%8E/"/>
       <url>/2020/06/29/%E5%9F%BA%E4%BA%8E/</url>
       
-        <content type="html"><![CDATA[<h1 id="HEXO文章编辑"><a href="#HEXO文章编辑" class="headerlink" title="HEXO文章编辑"></a>HEXO文章编辑</h1><ul><li><p>Markdown编辑器</p><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。</li></ul><ul><li>文章标签<ul><li>使用<code>tags: [A,B,C,D]</code>可对文章进行多标签(A,B,C,D)标记。</li></ul></li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<code>tags: [A,B,C,D]</code>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
       
       
       <categories>
@@ -27,6 +62,10 @@
             <tag> NEXT </tag>
             
             <tag> Setting </tag>
+            
+            <tag> 设置 </tag>
+            
+            <tag> 博客 </tag>
             
         </tags>
       
