@@ -8,7 +8,7 @@
       <link href="/2020/06/29/%E6%9D%A5%E6%97%A5%E6%96%B9%E4%B8%88/"/>
       <url>/2020/06/29/%E6%9D%A5%E6%97%A5%E6%96%B9%E4%B8%88/</url>
       
-        <content type="html"><![CDATA[<p>stateDiagram<br>state Trip {<br>State Da1{<br>    東京 –&gt; 桃源台駅 : car<br>    桃源台駅 –&gt; 大涌谷 : cable car<br>  }<br>state Day2 {<br>    桃源台駅 –&gt; 箱根湯本 : car<br>    箱根湯本 –&gt; 箱根ガラスの森美術館 : car<br>  箱根ガラスの森美術館 –&gt; ポーラ美術館 : car<br>　}<br>}</p>]]></content>
+        <content type="html"><![CDATA[<pre><code>    stateDiagramstate Trip {State Da1{東京 --&gt; 桃源台駅 : car桃源台駅 --&gt; 大涌谷 : cable car}state Day2 {桃源台駅 --&gt; 箱根湯本 : car箱根湯本 --&gt; 箱根ガラスの森美術館 : car箱根ガラスの森美術館 --&gt; ポーラ美術館 : car}}</code></pre>]]></content>
       
       
       <categories>
