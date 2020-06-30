@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hixiaoyang.tk/"/>
-  <updated>2020-06-29T13:20:24.978Z</updated>
+  <updated>2020-06-29T13:28:35.162Z</updated>
   <id>https://hixiaoyang.tk/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://hixiaoyang.tk/2020/06/29/%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8/"/>
     <id>https://hixiaoyang.tk/2020/06/29/日本旅游/</id>
     <published>2020-06-29T13:17:00.000Z</published>
-    <updated>2020-06-29T13:20:24.978Z</updated>
+    <updated>2020-06-29T13:28:35.162Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<code>tags: [A,B,C,D]</code>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
     
     <summary type="html">
     
@@ -55,7 +55,7 @@
     <published>2020-06-29T11:38:43.000Z</published>
     <updated>2020-06-29T12:22:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<code>tags: [A,B,C,D]</code>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
     
     <summary type="html">
     
