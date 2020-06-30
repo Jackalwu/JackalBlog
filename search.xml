@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>日本生活旅游</title>
-      <link href="/2020/06/29/%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8/"/>
-      <url>/2020/06/29/%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8/</url>
+      <title>来日方丈</title>
+      <link href="/2020/06/29/%E6%9D%A5%E6%97%A5%E6%96%B9%E4%B8%88/"/>
+      <url>/2020/06/29/%E6%9D%A5%E6%97%A5%E6%96%B9%E4%B8%88/</url>
       
-        <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>stateDiagram<br>state Trip {<br>State Da1{<br>    東京 –&gt; 桃源台駅 : car<br>    桃源台駅 –&gt; 大涌谷 : cable car<br>  }<br>state Day2 {<br>    桃源台駅 –&gt; 箱根湯本 : car<br>    箱根湯本 –&gt; 箱根ガラスの森美術館 : car<br>  箱根ガラスの森美術館 –&gt; ポーラ美術館 : car<br>　}<br>}</p>]]></content>
       
       
       <categories>
           
-          <category> 旅游 </category>
+          <category> Life </category>
           
       </categories>
       
@@ -40,10 +40,10 @@
     
     <entry>
       <title>基于HEXO的博客设置记录</title>
-      <link href="/2020/06/29/%E5%9F%BA%E4%BA%8E/"/>
-      <url>/2020/06/29/%E5%9F%BA%E4%BA%8E/</url>
+      <link href="/2020/06/29/%E5%9F%BA%E4%BA%8EHEXO%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E8%AE%B0%E5%BD%95/"/>
+      <url>/2020/06/29/%E5%9F%BA%E4%BA%8EHEXO%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E8%AE%B0%E5%BD%95/</url>
       
-        <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><ul><li>本地图片<ol><li>主站的_config.yml中更改post_asset_folder的配置: <code>post_asset_folder: true</code></li><li>在_posts文件夹下新建与博文标题同名文件:<ul><li>例如: 针对trial.md的博文插入图片，则创建trial文件夹</li></ul></li><li>将图片存入trial文件夹</li><li>写入图片链接<code>![Alt text](/img.jpg &quot;Optional title&quot;)</code></li></ol></li></ul><h1 id="报错一览"><a href="#报错一览" class="headerlink" title="报错一览"></a>报错一览</h1><ul><li>Error Plugin load failed<ul><li>现象1: <img src="/2020/06/29/%E5%9F%BA%E4%BA%8E/Annotation%202020-06-30%20145900.png" alt="现象1"><ul><li>解决方案: 删除博客根目录node_modules文件夹下的主题文件夹，再次执行生成及部署命令即可。</li></ul></li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li><li><a href="https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuXHRcdCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19" target="_blank" rel="noopener">Mermaid Live Editor</a><br>Mermaid在线编辑器。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><ul><li>本地图片<ol><li>主站的_config.yml中更改post_asset_folder的配置: <code>post_asset_folder: true</code></li><li>在_posts文件夹下新建与博文标题同名文件:<ul><li>例如: 针对trial.md的博文插入图片，则创建trial文件夹</li></ul></li><li>将图片存入trial文件夹</li><li>写入图片链接<code>![Alt text](/img.jpg &quot;Optional title&quot;)</code></li></ol></li></ul><h1 id="报错一览"><a href="#报错一览" class="headerlink" title="报错一览"></a>报错一览</h1><ul><li>Error Plugin load failed<ul><li>现象1: <img src="/2020/06/29/%E5%9F%BA%E4%BA%8EHEXO%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E8%AE%B0%E5%BD%95/Annotation%202020-06-30%20145900.png" alt="现象1"><ul><li>解决方案: 删除博客根目录node_modules文件夹下的主题文件夹，再次执行生成及部署命令即可。</li></ul></li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -66,31 +66,6 @@
             <tag> 设置 </tag>
             
             <tag> 博客 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Dairy</title>
-      <link href="/2018/10/20/Dairy/"/>
-      <url>/2018/10/20/Dairy/</url>
-      
-        <content type="html"><![CDATA[<p>#<2018></2018></p><pre><code>##&lt;10/20&gt;今天练习了Python的两个例题, Narcissistic Number </code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> Dairy </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Dairy </tag>
             
         </tags>
       
@@ -133,7 +108,7 @@
       
       <categories>
           
-          <category> Daily life </category>
+          <category> Life </category>
           
       </categories>
       
