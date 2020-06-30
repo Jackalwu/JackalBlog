@@ -55,7 +55,7 @@
     <published>2020-06-29T11:38:43.000Z</published>
     <updated>2020-06-29T12:22:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul><h1 id="报错一览"><a href="#报错一览" class="headerlink" title="报错一览"></a>报错一览</h1><ul><li>Error Plugin load failed<ul><li>现象1:<img src="/2020/06/29/%E5%9F%BA%E4%BA%8E/source/photos/Annotation 2020-06-30 145900.png" alt="avatar"><ul><li>解决方案: 删除博客根目录node_modules文件夹下的主题文件夹，再次执行生成及部署命令即可。</li></ul></li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="博文编辑"><a href="#博文编辑" class="headerlink" title="博文编辑"></a>博文编辑</h1><h2 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h2><ul><li><a href="https://stackedit.io/" target="_blank" rel="noopener">StackEdit</a><br>  在尝试了Notepad++和Sublime Text后，决定使用StackEdit。实时预览及简洁的页面足以让博主们写出各式各样的博文。而且，StackEdit提供谷歌账户登入，可以有效保存“编辑中”及“待编辑”的文章。没有谷歌账户的同学可以使用其它账户建立自己的workspace。另外，以下两款编辑器，博主并未进行测试，大家有机会可以尝试一下。    </li><li><a href="https://dillinger.io/" target="_blank" rel="noopener">Dillinger</a><br> 与StackEdit类似。</li><li><a href="https://typora.io/" target="_blank" rel="noopener">Typora</a><br>  需要下载。</li></ul><h2 id="文章标签"><a href="#文章标签" class="headerlink" title="文章标签"></a>文章标签</h2><ul><li>使用<br><code>tags: [A,B,C,D]</code><br>可对文章进行多标签(A,B,C,D)标记。</li></ul><h1 id="报错一览"><a href="#报错一览" class="headerlink" title="报错一览"></a>报错一览</h1><ul><li>Error Plugin load failed<ul><li>现象1: <img src="/2020/06/29/%E5%9F%BA%E4%BA%8E/photos/Annotation%202020-06-30%20145900.png" alt=""><ul><li>解决方案: 删除博客根目录node_modules文件夹下的主题文件夹，再次执行生成及部署命令即可。</li></ul></li></ul></li></ul>]]></content>
     
     <summary type="html">
     
@@ -77,6 +77,72 @@
       <category term="设置" scheme="https://hixiaoyang.tk/tags/%E8%AE%BE%E7%BD%AE/"/>
     
       <category term="博客" scheme="https://hixiaoyang.tk/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dairy</title>
+    <link href="https://hixiaoyang.tk/2018/10/20/Dairy/"/>
+    <id>https://hixiaoyang.tk/2018/10/20/Dairy/</id>
+    <published>2018-10-20T09:47:46.000Z</published>
+    <updated>2020-06-29T11:23:07.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>#<2018></2018></p><pre><code>##&lt;10/20&gt;今天练习了Python的两个例题, Narcissistic Number </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      Dairy
+    
+    </summary>
+    
+      <category term="Dairy" scheme="https://hixiaoyang.tk/categories/Dairy/"/>
+    
+    
+      <category term="Dairy" scheme="https://hixiaoyang.tk/tags/Dairy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Reading-Notes</title>
+    <link href="https://hixiaoyang.tk/2018/10/06/Dairy/"/>
+    <id>https://hixiaoyang.tk/2018/10/06/Dairy/</id>
+    <published>2018-10-06T12:36:59.000Z</published>
+    <updated>2018-10-06T12:41:40.716Z</updated>
+    
+    <content type="html"><![CDATA[<p>#&lt;特斯拉:电气时代的开创者&gt;</p><p align="right"></p>]]></content>
+    
+    <summary type="html">
+    
+      Reading-Notes
+    
+    </summary>
+    
+      <category term="Reading-Notes" scheme="https://hixiaoyang.tk/categories/Reading-Notes/"/>
+    
+    
+      <category term="Reading-Notes" scheme="https://hixiaoyang.tk/tags/Reading-Notes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开始使用博客</title>
+    <link href="https://hixiaoyang.tk/2018/10/01/Dairy/"/>
+    <id>https://hixiaoyang.tk/2018/10/01/Dairy/</id>
+    <published>2018-10-01T03:59:59.000Z</published>
+    <updated>2020-06-29T11:30:09.811Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Test1"><a href="#Test1" class="headerlink" title="Test1"></a>Test1</h1><blockquote class="blockquote-center"><p>Whatever you hold in your mind on a consistent basis is exactly what you will experience in your life.</p></blockquote><p>here are the contents</p><p><hr></p><p><div style="width: 400px; margin: auto"><img src="https://bn1302files.storage.live.com/y4m_XgnUr-xwbkwKqDPW-hdAwZfDWXqgEsZGBw7k8T1N3nxk8F_s_AOSz418jUw_GCEF7BaslFc0PI9uyj4-ugOe28oq7TYouRBbQwr0EHL3vC5FuCqCcFdOZaZKjLFtU1nBsQ9ITQTH1tCatGJrgOXGA96TG5UgEaVnuENuamca6mDZJGar9yNffzQxxd_MdU_WplSwuOLJpQVU6TN2SOVHQ/XQLN5209.JPG?psid=1&amp;width=636&amp;height=848" alt="沙滩海鸥" title="沙滩海鸥@Sydney"></div><br><center>@ Sydney</center>&gt;</p><p><hr></p><h2 id="Test2"><a href="#Test2" class="headerlink" title="Test2"></a>Test2</h2><p>hello</p>]]></content>
+    
+    <summary type="html">
+    
+      First Blog
+    
+    </summary>
+    
+      <category term="Daily life" scheme="https://hixiaoyang.tk/categories/Daily-life/"/>
+    
+    
+      <category term="Dairy" scheme="https://hixiaoyang.tk/tags/Dairy/"/>
     
   </entry>
   
